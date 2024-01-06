@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="footer__text footer__text-yandex">
-        Учебный проект Яндекс.Практикум х BeatFilm.
+        Пет-проект Movies Explorer.
       </p>
 
       <div className="footer__line" />
@@ -15,7 +15,7 @@ const Footer = () => {
         <p className="footer__text footer__lowest-block__year">© 2023</p>
         <div className="footer__lowest-block__about-yandex">
           <p className="footer__text footer__lowest-block__about-yandex-text">
-            Яндекс.Практикум
+            
           </p>
 
           <Link
@@ -23,7 +23,7 @@ const Footer = () => {
             to="https://github.com/Otec-S"
             target="_blank"
           >
-            GitHub
+            Мой GitHub
           </Link>
         </div>
       </div>

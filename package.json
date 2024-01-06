@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "https://otec-s.movie-explorer.nomoredomainsmonster.ru/",
+  "main": "index.js",
+  "author": "Sergey Grigorash",
+  "license": "ISC"
 }

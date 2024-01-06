@@ -9,7 +9,7 @@ const AboutProject = ({ refProp }) => {
       <article className="about-project__description">
         <div className="about-project__description-block">
           <p className="about-project__description-block-title">
-            Дипломный проект включал 5 этапов
+            Подготовка Пет-проекта включала 5 этапов
           </p>
           <p className="about-project__description-block-text about-project__text">
             Составление плана, работу над бэкендом, вёрстку, добавление
@@ -18,11 +18,11 @@ const AboutProject = ({ refProp }) => {
         </div>
         <div className="about-project__description-block about-project__description-block-padding">
           <p className="about-project__description-block-title">
-            На выполнение диплома ушло 5 недель
+            На выполнение проекта ушло 5 недель
           </p>
           <p className="about-project__description-block-text about-project__text">
             У каждого этапа был мягкий и жёсткий дедлайн, которые нужно было
-            соблюдать, чтобы успешно защититься.
+            соблюдать, чтобы уложиться в поставленный срок.
           </p>
         </div>
       </article>

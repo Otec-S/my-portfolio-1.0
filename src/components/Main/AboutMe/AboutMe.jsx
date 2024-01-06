@@ -8,7 +8,7 @@ import SubTitle from "../SubTitle/SubTitle";
 const AboutMe = () => {
   return (
     <section className="about-me">
-      <SubTitle text="Студент" />
+      <SubTitle text="Обо мне" />
 
       <div className="about-me__info">
         <div className="about-me__description">
@@ -21,17 +21,17 @@ const AboutMe = () => {
           </p>
           <Link
             className="about-me__github-link"
-            to="https://github.com/Otec-S"
+            to="https://github.com/Otec-S/movies-explorer-frontend.git"
             target="_blank"
           >
-            GitHub
+            Код проекта на GitHub
           </Link>
         </div>
         <img src={profilePhoto} className="about-me__photo" alt="Фото Сергея" />
       </div>
 
       <div className="about-me__portfolio">
-        <h3 className="about-me__portfolio-title">Портфолио</h3>
+        <h3 className="about-me__portfolio-title">Другие проекты из портфолио</h3>
 
         <Link
           className="about-me__portfolio-site-link"
