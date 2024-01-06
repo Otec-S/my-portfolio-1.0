@@ -13,7 +13,7 @@ const Promo = ({ onButtonClick }) => {
         </h1> */}
         <h1 className="promo__title">
           <span className="promo__title_line">Пет-проект</span>
-          <span className="promo__title_nowrap">Movies Explorer</span>
+          <span className="promo__title_nowrap">Movie Explorer</span>
         </h1>
 
         <p className="promo__subtitle">

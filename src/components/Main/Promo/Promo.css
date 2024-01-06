@@ -39,6 +39,7 @@
 .promo__title_nowrap {
   white-space: nowrap;
   font-size: 1.4em;
+  font-weight: 500;
 }
 
 .promo__subtitle {

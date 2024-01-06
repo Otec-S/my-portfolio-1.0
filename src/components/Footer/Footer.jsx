@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="footer__text footer__text-yandex">
-        Пет-проект Movies Explorer.
+        Пет-проект Movie Explorer.
       </p>
 
       <div className="footer__line" />
