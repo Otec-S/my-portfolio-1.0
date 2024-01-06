@@ -22,7 +22,7 @@ const AboutMe = () => {
           </p>
           <Link
             className="about-me__github-link"
-            to="https://github.com/Otec-S/movies-explorer-frontend.git"
+            to="https://github.com/Otec-S/my-portfolio-1.0.git"
             target="_blank"
           >
             Код проекта на GitHub
