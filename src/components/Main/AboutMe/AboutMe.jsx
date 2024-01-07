@@ -14,7 +14,7 @@ const AboutMe = () => {
         <div className="about-me__description">
           <h3 className="about-me__name">Сергей</h3>
           <p className="about-me__text about-me__personal-info">
-            Фронтенд-разработчик, 46 лет
+            Фронтенд-разработчик
           </p>
           <p className="about-me__biography">
           Читаю Habr и книги про Java Script, привык анализировать большое количество информации, постоянно обучаюсь, имею высшую степень самоорганизованности, разговариваю с бизнесом "на одном языке". <br/><br/>
