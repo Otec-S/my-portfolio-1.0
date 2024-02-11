@@ -1,20 +1,12 @@
-# Пет-проект frontend-разработчика Сергея Григораша.
+# Pet project by frontend developer Sergey Grigorash
 
 https://otec-s.movie-explorer.nomoredomainsmonster.ru/
 
-Проект Movie Explorer позволяет зарегистрированному пользователю осуществить поиск в _небольшой (порядка 100 штук) базе некоммерческих/малоизвестных фильмов_, которая загружается по API при отправке первого поискового запроса. Сотояние поиска и найденные фильмы сохраняются в localStorage и хранятся там до момента выхода из аккаунта.
+The Movie Explorer project allows registered users to search through a small (around 100) database of non-commercial/obscure movies, which is loaded via API upon the first search request. The search state and found movies are stored in localStorage and remain there until the user logs out.
 
-Нажатием на кнопку в верхнем правом углу карточки фильма последний можно сохранить в раздел "Сохраненные фильмы", в котором также можно осуществить отдельный поиск.
-Сохраненные фильмы хранятся на бэкенде (Express.js) в базе данных MongoDB. Там же сохранены аккаунты зарегистрированных пользователей для последующей авторизации.
+By clicking the button in the top right corner of the movie card, the user can save it to the "Saved Movies" section, where a separate search can also be conducted.
+Saved movies are stored on the backend (Express.js) in a MongoDB database. Registered user accounts are also stored there for subsequent authorization.
 
-## Ссылка на GitHub
-
-https://github.com/Otec-S
-
-## Ссылка на репозиторий фронтэнда на GitHub
-
-https://github.com/Otec-S/movies-explorer-frontend.git
-
-## Ссылка на репозиторий бэкэнда на GitHub
+## Link to the backend repository on GitHub
 
 https://github.com/Otec-S/movies-explorer-api.git
