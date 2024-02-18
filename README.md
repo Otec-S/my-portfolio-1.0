@@ -16,14 +16,23 @@
 
 ---
 
-The Movie Explorer project allows registered users to search through a small (around 100) database of non-commercial/obscure movies, which is loaded via API upon the first search request. The search state and found movies are stored in localStorage and remain there until the user logs out.
+### Description:
+The Movie Explorer project is a web application designed to allow registered users to search through a curated database of non-commercial and obscure movies.
 
-By clicking the button in the top right corner of the movie card, the user can save it to the "Saved Movies" section, where a separate search can also be conducted.
-Saved movies are stored on the backend (Express.js) in a MongoDB database. Registered user accounts are also stored there for subsequent authorization.
+### System Requirements:
+- Node.js
+- MongoDB
 
-## Link to the backend repository on GitHub
+### Key features:
+- **Search functionality:** Users can search through a database of around 100 movies, which is loaded via API upon the first search request.
+- **Local storage:** The search state and found movies are stored in the browser's local storage, persisting until the user logs out.
+- **Saved Movies section:** Users can save movies to a separate "Saved Movies" section by clicking a button on the movie card. Saved movies are stored on the backend (Express.js) in a MongoDB database.
+- **User authentication:** Registered user accounts are stored on the backend for subsequent authorization.
 
-https://github.com/Otec-S/movies-explorer-api.git
+### Project Status and Future Plans:
+The Movie Explorer project is currently functional and available for use.
+
+---
 
 ## Running the Project Locally
 
